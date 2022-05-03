@@ -1,0 +1,40 @@
+*{
+  margin: 0px;
+  padding: 0px;
+}
+  body{
+  background: #94B9FF;
+}
+.header{
+  font-size: 7vw;
+  background: #3A4F76;
+  text-align: center;
+  color: white;
+  padding: 6px 0px;
+}
+form{
+ 
+}
+.input{
+  font-size: 3vh;
+ 
+  border: 5px solid #FFBA00;
+  padding: 7px;
+  border-radius: 20px;
+}
+.logic{
+  font-size: 6vh;
+  margin: 2vw;
+  background: white;
+  padding: 4px;
+  border-radius: 100%;
+}
+#result{
+  text-align: center;
+  margin: 20px 20%;
+  font-size: 5vh;
+  background: black;
+  color:white;
+  border: 5px solid white;
+  border-radius: 50px;
+}
